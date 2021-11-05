@@ -1,0 +1,14 @@
+{
+  "name": "imgif-downloader-by-subject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IGD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "images-downloader": "^1.0.3"
+  }
+}
